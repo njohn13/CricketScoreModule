@@ -1,0 +1,34 @@
+.nevinscricket {
+  width: 300px;
+  text-align: center;
+  margin: 10px;
+  font-family: Arial, sans-serif;
+  transition: opacity 1s ease;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+}
+
+/* .nevinscricket.hidden {
+  opacity: 0;
+}
+
+.nevinscricket div {
+  margin-bottom: 5px;
+}
+
+.nevinscricket div:nth-child(1),
+.nevinscricket div:nth-child(2),
+.nevinscricket div:nth-child(3) {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.nevinscricket div:nth-child(4),
+.nevinscricket div:nth-child(5) {
+  font-size: 20px;
+  font-style: italic;
+} */
